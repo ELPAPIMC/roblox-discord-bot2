@@ -1,0 +1,22 @@
+{
+  "name": "roblox-discord-forum-bot",
+  "version": "1.0.0",
+  "description": "Bot para notificaciones automáticas del foro de Roblox en Discord",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "keywords": [
+    "roblox",
+    "discord",
+    "bot",
+    "webhook",
+    "notifications"
+  ],
+  "author": "Tu nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
