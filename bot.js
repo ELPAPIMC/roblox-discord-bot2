@@ -132,7 +132,7 @@ async function fetchForumPosts(retryCount = 0) {
 async function sendDiscordNotification(post) {
   const embed = {
     embeds: [{
-      title: '📢 Nuevo mensaje en el foro',
+      title: '📢 Nuevo Estafador',
       description: truncateText(post.body),
       color: 0x00A2FF, // Color azul de Roblox
       fields: [
